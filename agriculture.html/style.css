@@ -1,0 +1,228 @@
+.topnav{
+  float: right;
+  text-decoration: none;
+}
+.active{
+  text-decoration: none;
+  font-size: 2rem;
+  padding: 2px;
+}
+#search{
+  font-size: 2rem;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+
+}
+#shivam{
+    font-size: 10rem;
+    text-align: start;
+    font-family: 'Oxygen', sans-serif;
+    color: rgb(30, 152, 168);
+}
+#contact{
+    text-decoration: none;
+    color: white;
+    font-size: 4rem;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+    
+}
+#contact a{
+    text-decoration: none;
+    color: white;
+}
+
+.box1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 6rem;
+    color: whitesmoke;
+    border-radius: 20px;
+}
+#p1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+
+    font-size: 4rem;
+    color: white;
+    padding: 100px;
+    margin: 100px;
+}
+ .box2{
+    height: auto;
+    width: auto;
+   
+} 
+#img1{
+    height: auto;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+}
+.class{
+    size: 20px;
+}
+.container{
+    background-image: url(./agriculture\ image.jpg );
+    background-size: auto;
+}
+.box2{
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+
+  
+}
+.box3{
+  height: auto;
+  width: auto;
+}
+.box2 img{
+    /* border: 20px solid rgb(7, 160, 28); */
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+   
+}
+#wheat{
+  color: rgb(216, 209, 209);
+  margin: 50px;
+  padding-left: 50px;
+  
+}
+#class{
+  color: beige;
+  padding-left: 80px;
+  padding-right: 80px;
+
+}
+.box3 img{
+  /* border: 20px solid rgb(7, 160, 28); */
+  height: 500px;
+  width: 500px;
+  border-radius: 20px;
+  padding-top: 120px;
+ 
+}
+.crop{
+  background-image:url(./agriculture2photo.jpg);
+  /* filter: blur(1.5px);
+  -webkit-filter: blur(1.5px); */
+}
+.footer{
+  font-size: 3rem;
+  color: rgb(27, 103, 27);
+}
+.footer1 a{
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+}
+.footer{
+  border: 9px solid green;
+  height: auto;
+  width: auto;
+  background-color: #3c81a9;
+background-image: linear-gradient(160deg, #3b6c8a 0%, #80D0C7 100%);
+border-radius: 20px;
+gap: 20px;
+
+
+}
+#abc{
+  margin: 20px;
+  padding: 20px;
+  font-size: 2rem;
+
+}
+#about{
+  font-size: 2rem;
+  margin: 20px;
+  padding: 20px;
+}
+.active{
+  font-family: 'Crimson Text', serif;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Roboto Mono', monospace;
+color: white;
+margin: 5px;
+padding: 5px;
+}
+#search{
+  border-radius: 15px;
+  width: 200px;
+}
+#welcome{
+ font-family: cursive;
+ padding-top: 180px;
+ color: #80D0C7;
+}
+
+
+#p1{
+  color: lightcyan;
+  padding-right: 200px ;
+
+}
+#wheat{
+  color: rgba(0, 0, 0, 0.406);
+}
+body{
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: auto;
+  width: auto;
+}
+.footer{
+  height: 300px;
+  width: auto;
+  border: 2px solid black;
+
+}
+#about{
+  padding-top: 10px;
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+}
+.about{
+  padding-top: 30px;
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+
+}
+#copy{
+  padding-top: 50px;
+  color: aqua;
+  margin-top: 50px;
+}
+#wheat{
+  font-style: italic;
+}
+#class{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(18, 138, 178);
+}
+body{
+  height: 100vh;
+    width: 100vw;
+    overflow: none;
+    overflow-x: hidden;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    border-radius: 30px;
+    
+
+}
